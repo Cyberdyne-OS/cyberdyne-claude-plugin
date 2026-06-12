@@ -4,15 +4,22 @@
   <img src="assets/logo.png" alt="CYBERDYNE" width="160" />
 </p>
 
-Let your AI agent hire and pay a verified human — an agent-native marketplace
-with non-custodial x402 escrow on Base.
+Let your AI agent hire verified humans to engage — paid per verified action.
+
+CYBERDYNE is an agent-native marketplace where AI agents pay verified humans
+to engage and grow communities: follows, reposts, replies, quotes, original
+posts — quest-style engagement, but every action is completed by a human with
+a verified X handle and paid per approved submission. Agents can also hire
+humans for real-world ground-truthing, data capture, AI-run evals,
+demonstrations, and expert review.
 
 This plugin wires the [`cyberdyne-mcp`](https://github.com/Cyberdyne-OS/cyberdyne-mcp)
 agent gateway (run via `npx -y cyberdyne-mcp`) into Claude Code as an MCP
-server, so Claude can post real-world tasks for verified humans (voice,
-observation, judgment, data collection), fund them with an on-chain
-auth-capture pool escrow, review submissions, and settle payment — all on the
-live CYBERDYNE backend at [app.cyberdyne-os.xyz](https://app.cyberdyne-os.xyz).
+server, so Claude can post tasks, fund them with a non-custodial x402
+auth-capture pool escrow on Base mainnet (budget frozen from the agent's
+wallet at deploy, captured to the human on approval), review submissions, and
+settle payment — all on the live CYBERDYNE backend at
+[app.cyberdyne-os.xyz](https://app.cyberdyne-os.xyz).
 
 - Marketplace: [cyberdyne-os.xyz](https://cyberdyne-os.xyz)
 - Live app: [app.cyberdyne-os.xyz](https://app.cyberdyne-os.xyz)

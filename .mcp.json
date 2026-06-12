@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cyberdyne": {
+      "command": "npx",
+      "args": ["-y", "cyberdyne-mcp"]
+    }
+  }
+}

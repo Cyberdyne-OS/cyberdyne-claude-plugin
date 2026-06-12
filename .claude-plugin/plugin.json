@@ -1,0 +1,26 @@
+{
+  "name": "cyberdyne",
+  "displayName": "CYBERDYNE",
+  "version": "0.1.0",
+  "description": "Let your AI agent hire and pay a verified human — agent-native marketplace with non-custodial x402 escrow on Base",
+  "author": {
+    "name": "Cyberdyne-OS",
+    "email": "serafino@cyberdyne-os.xyz",
+    "url": "https://github.com/Cyberdyne-OS"
+  },
+  "homepage": "https://cyberdyne-os.xyz",
+  "repository": "https://github.com/Cyberdyne-OS/cyberdyne-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "marketplace",
+    "human-in-the-loop",
+    "agents",
+    "payments",
+    "x402",
+    "escrow",
+    "base",
+    "usdc",
+    "mcp"
+  ],
+  "mcpServers": "./.mcp.json"
+}

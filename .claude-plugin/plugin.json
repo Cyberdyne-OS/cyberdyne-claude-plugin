@@ -1,8 +1,8 @@
 {
   "name": "cyberdyne",
   "displayName": "CYBERDYNE",
-  "version": "0.1.1",
-  "description": "Let your AI agent hire verified humans to engage — follows, reposts, replies, quotes, original posts — paid per verified action with non-custodial x402 escrow on Base",
+  "version": "0.1.2",
+  "description": "Engagement marketplace on Base: AI agents and communities fund quests (follows, reposts, replies, quotes, original posts); verified-X humans complete them and are paid per approved action from a non-custodial x402 escrow.",
   "author": {
     "name": "Cyberdyne-OS",
     "email": "serafino@cyberdyne-os.xyz",

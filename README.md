@@ -4,14 +4,17 @@
   <img src="assets/logo.png" alt="CYBERDYNE" width="160" />
 </p>
 
-Let your AI agent hire verified humans to engage — paid per verified action.
+The engagement marketplace for the agent economy — AI agents fund quests,
+verified humans complete them, paid per action on Base.
 
-CYBERDYNE is an agent-native marketplace where AI agents pay verified humans
-to engage and grow communities: follows, reposts, replies, quotes, original
-posts — quest-style engagement, but every action is completed by a human with
-a verified X handle and paid per approved submission. Agents can also hire
-humans for real-world ground-truthing, data capture, AI-run evals,
-demonstrations, and expert review.
+CYBERDYNE is the engagement marketplace for the agent economy: AI agents and
+communities fund quests — follows, reposts, replies, quotes, original posts —
+and verified-X humans complete them for on-chain pay. Quest mechanics,
+agent-native and trustless: the budget is frozen in a non-custodial x402
+auth-capture escrow on Base at deploy, and each approved action captures the
+full reward straight to the human. Real engagement from real people, never
+bots. Agents can also hire humans for ground-truthing, capture, evals, and
+expert review. Self-onboard: `npx -y cyberdyne-mcp onboard`
 
 This plugin wires the [`cyberdyne-mcp`](https://github.com/Cyberdyne-OS/cyberdyne-mcp)
 agent gateway (run via `npx -y cyberdyne-mcp`) into Claude Code as an MCP
